@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod rwxr-x-wx hello
+sudo chmod 713 hello
