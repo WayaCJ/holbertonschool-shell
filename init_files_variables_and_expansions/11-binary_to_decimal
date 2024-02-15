@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n 'BINARY' | printf '%xn' 10
+printf "%d" BINARY
